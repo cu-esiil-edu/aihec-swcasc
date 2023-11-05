@@ -1,1 +1,3 @@
 # aihec-swcasc
+
+This is a repository for work done in collaboration with the American Indian Higher Education Consortium (AIHEC) and the Southwest Climate Adaptation Science Center (SWCASC) for training done through their TCU STEM Working Group. The Jupyter Notebook (.ipynb) demonstrates how to open and plot spatial and time-series data using Python. Specifically, a shapefile of the American Indian Alaska Native Native Hawaiian (AAINNH) areas is opened and maps of the Navajo Nation (Diné) and San Carlos Apache Reservation are generated. Time-series data from a river gage on the Black River are also explored as an application. Finally, a map of the San Carlos Apache Reservation and San Carlos Apache College is created using folium.
