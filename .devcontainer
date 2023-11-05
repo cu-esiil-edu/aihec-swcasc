@@ -1,9 +1,9 @@
 {
     "name": "Earth Analytics Python Container",
-    "image": "registry.hub.docker.com/earthlab/earth-analytics-python-env:latest",
-    "workspaceFolder": "/workspaces",
+    "image": "registry.hub.docker.com/earthlab/earth-analytics-dev-env:latest",
     "extensions": [
         "ms-python.python",
+        "ms-toolsai.jupyter",
         // Use black to format code (right click)
         "ms-python.black-formatter",
     ],
